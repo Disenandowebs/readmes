@@ -1,4 +1,4 @@
-![Descripción](/img/Plantillas README.md.jpg)
+![Descripción](/img/portada.jpg)
 
 # RECURSOS PARA READMES
 
