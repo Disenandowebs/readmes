@@ -1,3 +1,5 @@
+![Descripción](/img/Plantillas README.md.jpg)
+
 # RECURSOS PARA READMES
 
 ## PLANTILLA MODELO
