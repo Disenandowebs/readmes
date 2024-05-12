@@ -1,1 +1,1 @@
-
+### Directorio de imágenes
