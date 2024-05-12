@@ -1,4 +1,4 @@
-![Descripción](/img/portada.jpg)
+<img src="/img/portada.jpg" alt="Portada" width="100%">
 
 # RECURSOS PARA READMES
 
