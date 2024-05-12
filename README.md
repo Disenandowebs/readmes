@@ -1,8 +1,8 @@
 <img src="/img/portad.jpg" alt="Portada" width="100%">
 
-# RECURSOS PARA READMES
+# PLANTILLAS PARA READMES
 
-## PLANTILLA MODELO
+## PLANTILLA BASE
 
 ### PARTES
 
