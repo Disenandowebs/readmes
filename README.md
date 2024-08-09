@@ -67,3 +67,4 @@ Las herramientas son plataformas que te ayudan a crear algunos elementos en Mark
 <pre> Una imagen como portada </pre>
 
 
+https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
