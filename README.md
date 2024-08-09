@@ -1,4 +1,4 @@
-<img src="/img/portad.jpg" alt="Portada" width="100%">
+<img src="/img/portada.gif" alt="Portada" width="100%">
 
 # 📜 PLANTILLAS PARA READMES
 
