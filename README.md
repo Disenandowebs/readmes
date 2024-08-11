@@ -39,20 +39,25 @@ Un README.md atractivo debe contener la mayoría de las siguientes partes:
 
 Los elementos que puedes incluir en el README.md se detallan a continuación, si quieres sugerir alguno que no está incluido, contáctame para agregarte en el equipo de contribución.
 
-### ENCABEZADOS
+### :point_right: ENCABEZADOS
 
   <pre> 
       # Encabezado primer nivel
       ## Encabezado segundo nivel
       ### Encabezado tercer nivel
   </pre>
-  
-# Encabezado nivel 1
 
+### :eyes: EJEMPLOS
 
-| Elemento  | Muestra | Código  |
+#        Encabezado primer nivel
+##           Encabezado segundo nivel
+###              Encabezado tercer nivel
+
+### :point_right: ESTILOS DE TEXTO
+
+| Estilo  | Muestra | Código  |
 | ------------- | ------------- | ------------- |
-| Encabezado 1  | # Encabezado 1  | ``` # Encabezado 1 ``` |
+| Bold  | **Texto grueso** | ``` **Texto grueso** ``` |
 | Encabezado 2  | ## Encabezado 2  | ``` ## Encabezado 2 ``` |
 | Encabezado 3  | ### Encabezado 3  | ``` ### Encabezado 3 ``` |
 
