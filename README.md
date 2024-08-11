@@ -41,14 +41,20 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 
 ### ENCABEZADOS
 
+  <pre> 
+      # Encabezado primer nivel
+      ## Encabezado segundo nivel
+      ### Encabezado tercer nivel
+  </pre>
+  
 # Encabezado nivel 1
 
 
 | Elemento  | Muestra | Código  |
 | ------------- | ------------- | ------------- |
-| Encabezado 1  | Encabezado 1  | ``` # Encabezado 1 ``` |
-| Encabezado 2  | Encabezado 2  | ``` ## Encabezado 2 ``` |
-| Encabezado 3  | Encabezado 3  | ``` ### Encabezado 3 ``` |
+| Encabezado 1  | # Encabezado 1  | ``` # Encabezado 1 ``` |
+| Encabezado 2  | ## Encabezado 2  | ``` ## Encabezado 2 ``` |
+| Encabezado 3  | ### Encabezado 3  | ``` ### Encabezado 3 ``` |
 
 - Título
   <pre> # Título aquí </pre>
