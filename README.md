@@ -51,8 +51,11 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
      Insertar código
   ```
   </pre>
-- Iconos o Emojis  
-  > Para esto no hay un código, usa la tecla windows + . para que se abrá la ventana de emojis y listo.
+- Iconos o Emojis
+  <pre>
+  Para esto no hay un código, usa la tecla windows + . para que se abrá la ventana de emojis y listo.    
+  </pre>
+  
 
 ### HERRAMIENTAS
 
