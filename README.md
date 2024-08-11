@@ -58,8 +58,8 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 | Estilo  | Muestra | Código  |
 | ------------- | ------------- | ------------- |
 | Bold | **Texto grueso** | ``` **Texto grueso** ``` |
-| Cursiva | *Texto Cursiva* | ``` *Texto Cursiva* ``` |
-| Encabezado 3  | ### Encabezado 3  | ``` ### Encabezado 3 ``` |
+| Cursiva | *Texto cursiva* | ``` *Texto cursiva* ``` |
+| Tachado | ~~Texto tachado~~ | ``` ~~Texto tachado~~ ``` |
 
 - Título
   <pre> # Título aquí </pre>
