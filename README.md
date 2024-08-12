@@ -60,6 +60,9 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 | Bold | **Texto grueso** | ``` **Texto grueso** ``` |
 | Cursiva | *Texto cursiva* | ``` *Texto cursiva* ``` |
 | Tachado | ~~Texto tachado~~ | ``` ~~Texto tachado~~ ``` |
+| Subscript | Subindice<sub>A</sub> | ``` Subindice<sub>A</sub> ``` |
+| Superscript | Superindice<sup>2</sup> | ``` Superindice<sup>2</sup> ``` |
+
 
 - Título
   <pre> # Título aquí </pre>
