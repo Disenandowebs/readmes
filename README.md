@@ -70,6 +70,12 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 **Sección destacada estandar**
 > No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
 
+**Código**
+```
+> No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
+```
+##  
+
 **Sección destacada regular**
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
