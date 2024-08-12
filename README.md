@@ -65,6 +65,8 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 
 ### :point_right: SECCIÓN DESTACADA
 
+El único inconveniente es que no hay la versión en español, esperemos pronto añadan la versión en español.
+
 **Sección destacada estandar**
 > No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
 
@@ -72,15 +74,19 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
+**Sección destacada regular alternativa**
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
+**Sección destacada importante**
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
+**Sección destacada advertencia**
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
+**Sección destacada precaución**
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
