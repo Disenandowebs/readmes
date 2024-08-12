@@ -68,17 +68,22 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 **Sección destacada estandar**
 > No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
 
-  <pre> 
-      # Encabezado primer nivel
-      ## Encabezado segundo nivel
-      ### Encabezado tercer nivel
-  </pre>
+**Sección destacada regular**
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
-### :eyes: EJEMPLOS
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
-#        Encabezado primer nivel
-##           Encabezado segundo nivel
-###              Encabezado tercer nivel
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 
 - Título
   <pre> # Título aquí </pre>
