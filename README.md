@@ -74,6 +74,12 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
+**Código**
+```
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+```
+
 **Sección destacada regular alternativa**
 > [!TIP]
 > Helpful advice for doing things better or more easily.
