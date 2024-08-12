@@ -63,6 +63,22 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 | Subscript | Subindice<sub>A</sub> | ``` Subindice<sub>A</sub> ``` |
 | Superscript | Superindice<sup>2</sup> | ``` Superindice<sup>2</sup> ``` |
 
+### :point_right: SECCIÓN DESTACADA
+
+**Sección destacada estandar**
+> No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
+
+  <pre> 
+      # Encabezado primer nivel
+      ## Encabezado segundo nivel
+      ### Encabezado tercer nivel
+  </pre>
+
+### :eyes: EJEMPLOS
+
+#        Encabezado primer nivel
+##           Encabezado segundo nivel
+###              Encabezado tercer nivel
 
 - Título
   <pre> # Título aquí </pre>
