@@ -110,22 +110,6 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 > Advises about risks or negative outcomes of certain actions.
 
 
-- Título
-  <pre> # Título aquí </pre>
-- Subtítulo
-  <pre> ## Subtítulo aquí </pre>
-- Imagen
-  <pre> ![Descripción](ruta local o url de la imagen) </pre>
-- Insertar código
-  <pre>
-  ```
-     Insertar código
-  ```
-  </pre>
-- Iconos o Emojis
-  <pre>
-  Para esto no hay un código, usa la tecla windows + . para que se abrá la ventana de emojis y listo.    
-  </pre>
   
 
 ### HERRAMIENTAS
