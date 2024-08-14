@@ -111,6 +111,12 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
+**Código**
+```
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+```
+
 **Sección destacada precaución**
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
