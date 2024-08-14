@@ -101,6 +101,12 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
+**Código**
+```
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+```
+
 **Sección destacada advertencia**
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
