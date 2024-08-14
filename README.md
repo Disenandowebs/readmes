@@ -121,6 +121,11 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+**Código**
+```
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+```
 
   
 
