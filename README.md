@@ -138,6 +138,26 @@ Use `git status` to list all new or modified files that haven't yet been committ
 Use `git status` to list all new or modified files that haven't yet been committed.
 ```
 
+Se puede formatear texto en un bloque con triple comilla, como en el siguiente ejemplo.
+
+```
+git status
+git add
+git commit
+```
+
+**Código**
+```
+    ```
+    git status
+    git add
+    git commit
+    ```
+```
+
+
+
+
 
 ### HERRAMIENTAS
 
