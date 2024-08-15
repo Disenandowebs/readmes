@@ -127,7 +127,17 @@ El único inconveniente es que no hay la versión en español, esperemos pronto 
 > Advises about risks or negative outcomes of certain actions.
 ```
 
-  
+### :point_right: DESTACAR TEXTO
+
+En un párrafo se puede usar comilla simple.
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+**Código**
+```
+Use `git status` to list all new or modified files that haven't yet been committed.
+```
+
 
 ### HERRAMIENTAS
 
