@@ -65,9 +65,12 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 
 ### :point_right: SECCIÓN DESTACADA
 
-El único inconveniente es que no hay la versión en español, esperemos pronto añadan la versión en español.
+El único inconveniente en código Markdown es que no hay la versión en español para las cabeceras de cada bloque, esperemos pronto añadan la versión en español. Aún así, se puede utilizar código HTML para obtener el mismo resultado.
 
-**Sección destacada estandar**
+### SECCIÓN DESTACADA ESTANDAR
+
+** Código Markdown **
+
 > No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
 
 **Código**
