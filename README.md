@@ -52,7 +52,7 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 #        Encabezado primer nivel
 ##           Encabezado segundo nivel
 ###              Encabezado tercer nivel
-
+##  
 ### 2. ESTILOS DE TEXTO
 
 | Estilo  | Muestra | Código  |
@@ -62,12 +62,12 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 | Tachado | ~~Texto tachado~~ | ``` ~~Texto tachado~~ ``` |
 | Subscript | Subindice<sub>A</sub> | ``` Subindice<sub>A</sub> ``` |
 | Superscript | Superindice<sup>2</sup> | ``` Superindice<sup>2</sup> ``` |
-
+##  
 ### 3. SECCIÓN DESTACADA
 
 El único inconveniente en código Markdown es que no hay la versión en español para las cabeceras de cada bloque, esperemos pronto añadan la versión en español. Aún así, se puede utilizar código HTML para obtener el mismo resultado.
 
-### SECCIÓN DESTACADA ESTANDAR
+### Sección destacada estandar
 
 ** Código Markdown **
 
