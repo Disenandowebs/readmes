@@ -41,6 +41,8 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 
 ### 1. ENCABEZADOS
 
+Los encabezados describen a grandes rasgos y destacan el principio y fin de las secciones que componen una descripción del README o de la documentación de un repositorio.
+
   <pre> 
       # Encabezado primer nivel
       ## Encabezado segundo nivel
@@ -53,7 +55,10 @@ Los elementos que puedes incluir en el README.md se detallan a continuación, si
 ##           Encabezado segundo nivel
 ###              Encabezado tercer nivel
 ##  
+
 ### 2. ESTILOS DE TEXTO
+
+Los estilos de texto permiten dentro del texto destacar, resaltar o diferenciar algunas palabras u oraciones del resto para que se ponga más atención a ciertas partes o se las recuerde con especial atención por su importancia.
 
 | Estilo  | Muestra | Código  |
 | ------------- | ------------- | ------------- |
@@ -69,14 +74,25 @@ El único inconveniente en código Markdown es que no hay la versión en españo
 
 ### Sección destacada estandar
 
+Es un bloque de texto que se diferencia del resto de párrafos.
+
+> No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
+
 ** Código Markdown **
-
-> No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
-
-**Código**
 ```
 > No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
 ```
+
+** Código HTML **
+```
+<div style="padding: .5rem 1rem;
+           background: #f0f3f6;
+           border-left: .25em solid #8b949e;
+           margin: 1rem 0;">
+  <p>No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.</p>
+</div>
+```
+
 ##  
 
 **Sección destacada regular**
