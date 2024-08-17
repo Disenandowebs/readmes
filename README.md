@@ -35,11 +35,11 @@ Un README.md atractivo debe contener la mayoría de las siguientes partes:
     </tr>
 </table>
 
-### ELEMENTOS
+## :id: ELEMENTOS
 
 Los elementos que puedes incluir en el README.md se detallan a continuación, si quieres sugerir alguno que no está incluido, contáctame para agregarte en el equipo de contribución.
 
-### :point_right: ENCABEZADOS
+### 1. ENCABEZADOS
 
   <pre> 
       # Encabezado primer nivel
