@@ -82,17 +82,6 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 ```
 > No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.
 ```
-
-** Código HTML **
-```
-<div style="padding: .5rem 1rem;
-           background: #f0f3f6;
-           border-left: .25em solid #8b949e;
-           margin: 1rem 0;">
-  <p>No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.</p>
-</div>
-```
-
 ##  
 
 **Sección destacada regular**
