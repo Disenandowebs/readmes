@@ -70,7 +70,7 @@ Los estilos de texto permiten dentro del texto destacar, resaltar o diferenciar 
 ##  
 ### 3. SECCIÓN DESTACADA
 
-El único inconveniente es que GitHub Markdown no soporta directamente el uso de estilos CSS y no hay la versión en español para las cabeceras de cada cita o bloque, esperemos pronto añadan la versión en español. Aún así, se puede utilizar código HTML para obtener el mismo resultado.
+El único inconveniente es que GitHub Markdown no soporta directamente el uso de estilos CSS y no hay la versión en español para las cabeceras de cada cita o bloque, esperemos pronto añadan la versión en español.
 
 ### Sección destacada estandar
 
