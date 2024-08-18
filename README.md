@@ -70,7 +70,7 @@ Los estilos de texto permiten dentro del texto destacar, resaltar o diferenciar 
 ##  
 ### 3. SECCIÓN DESTACADA
 
-El único inconveniente en código Markdown es que no hay la versión en español para las cabeceras de cada bloque, esperemos pronto añadan la versión en español. Aún así, se puede utilizar código HTML para obtener el mismo resultado.
+El único inconveniente es que GitHub Markdown no soporta directamente el uso de estilos CSS y no hay la versión en español para las cabeceras de cada cita o bloque, esperemos pronto añadan la versión en español. Aún así, se puede utilizar código HTML para obtener el mismo resultado.
 
 ### Sección destacada estandar
 
@@ -98,20 +98,6 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 **Sección destacada regular**
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-
-<div style="padding: .5rem 1rem;
-            background: #f0f3f6;
-            border-left: .25em solid #0969da;
-            margin: 1rem 0;">
-  <p style="display: flex; font-weight: 500; align-items: center; line-height: 1; color: #0969da;">
-  <svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon mr-2" aria-hidden="" style="margin-right: 0.5rem; fill: #0969da;">
-    <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z">
-    </path>
-  </svg>
-    NOTA
-  </p>
-  <p>Al visualizar una conversación, puedes citar automáticamente el texto en un comentario si lo resaltas y escribes R. Para citar un comentario completo, haz clic en  y, a continuación, en Citar respuesta. Para obtener más información acerca de los métodos abreviados de teclado, consulte "Accesos directos del teclado".</p>
-</div>
 
 **Código**
 ```
