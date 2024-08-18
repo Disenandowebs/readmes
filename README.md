@@ -104,8 +104,9 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 ```
+##  
 
-**Sección destacada importante**
+### Sección destacada importante
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
@@ -114,8 +115,9 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 ```
+##  
 
-**Sección destacada advertencia**
+### Sección destacada advertencia
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
@@ -124,8 +126,9 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 ```
+##  
 
-**Sección destacada precaución**
+###  Sección destacada precaución
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
@@ -134,8 +137,9 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 ```
+##  
 
-### :point_right: DESTACAR TEXTO
+### 4. DESTACAR TEXTO
 
 En un párrafo se puede usar comilla simple.
 
