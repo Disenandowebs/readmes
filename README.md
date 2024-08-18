@@ -84,7 +84,7 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 ```
 ##  
 
-**Sección destacada regular**
+### Sección destacada regular
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -95,7 +95,7 @@ Es un bloque de texto que se diferencia del resto de párrafos.
 ```
 ##  
 
-**Sección destacada regular alternativa**
+### Sección destacada regular alternativa
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
