@@ -183,9 +183,23 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 ````
+##  
 
 ### 5. VÍNCULOS O ENLACES
 
+Puede crear un vínculo en línea escribiendo su texto entre corchetes [ ] y escribiendo la URL entre paréntesis ( ). También puede usar el método abreviado de teclado CTRL + K cuando haya seleccionado texto para crear un vínculo.
+
+También puedes crear un hipervínculo de Markdown resaltando el texto y usando el método abreviado de teclado CTRL + V. Si quieres reemplazar el texto por el vínculo, usa el método abreviado de teclado CTRL + SHIFT + V.
+
+**Ejemplo**
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+**Código**
+```
+This site was built using [GitHub Pages](https://pages.github.com/).
+```
+##  
 
 
 https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
