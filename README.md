@@ -167,11 +167,23 @@ git commit
     ```
 ```
 
+Si queremos que el bloque de texto se muestre con colores diferenciados podemos hacer referencia al lenguaje.
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+**Código**
+````
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+````
+
 
 https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
 
