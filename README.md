@@ -212,6 +212,16 @@ Se puede crear un enlace a cualquier título o subtítulo en Markdown copiando e
 ```
 [Ir a Elementos de este README.md](https://github.com/Disenandowebs/readmes?tab=readme-ov-file#id-elementos)
 ```
+
+Otro tipo de vínculos son los enlaces relativos y rutas de imagen en los archivos representados para ayudar a que los lectores naveguen hasta otros archivos de tu repositorio.
+
+Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, si tiene un archivo Léame en la raíz del repositorio y tiene otro archivo en docs/CONTRIBUTING.md, el vínculo relativo a CONTRIBUTING.md en el archivo Léame podría tener este aspecto:
+
+```
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+```
+
+
 ##  
 
 
