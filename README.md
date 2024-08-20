@@ -228,6 +228,10 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 ```
 ![Descripción de Imagen](https://myoctocat.com/assets/images/base-octocat.svg)
 ```
+
+> [!TIP]
+> Cuando quieras mostrar una imagen incluida en el repositorio, usa vínculos relativos en vez de absolutos.
+
 ##  
 
 
