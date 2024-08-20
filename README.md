@@ -206,9 +206,12 @@ Se puede crear un enlace a cualquier título o subtítulo en Markdown copiando e
 
 **Ejemplo**
 
-[enlace](https://github.com/Disenandowebs/readmes?tab=readme-ov-file#id-elementos)
+[Ir a Elementos de este README.md](https://github.com/Disenandowebs/readmes?tab=readme-ov-file#id-elementos)
 
-
+**Código**
+```
+[Ir a Elementos de este README.md](https://github.com/Disenandowebs/readmes?tab=readme-ov-file#id-elementos)
+```
 ##  
 
 
