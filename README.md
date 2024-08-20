@@ -199,9 +199,19 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ```
 This site was built using [GitHub Pages](https://pages.github.com/).
 ```
-##  
+
+Se puede crear un enlace a cualquier título o subtítulo en Markdown copiando el enlace del ícono que aparece a la izquierda del título o subtítulo cuando se desliza el puntero del mouse sobre el encabezado de la sección.
+
+![imagen](https://github.com/user-attachments/assets/a0dd2644-654f-4e31-a3e8-a6148b61c0e6)
+
+**Ejemplo**
 
 [enlace](https://github.com/Disenandowebs/readmes?tab=readme-ov-file#id-elementos)
+
+
+##  
+
+
 
 
 
