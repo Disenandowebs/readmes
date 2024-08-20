@@ -217,11 +217,17 @@ Otro tipo de vínculos son los enlaces relativos y rutas de imagen en los archiv
 
 Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, si tiene un archivo Léame en la raíz del repositorio y tiene otro archivo en docs/CONTRIBUTING.md, el vínculo relativo a CONTRIBUTING.md en el archivo Léame podría tener este aspecto:
 
+**Código**
 ```
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
+Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imagen. Luego, escribe el vínculo de la imagen entre paréntesis ().
 
+**Código**
+```
+![Descripción de Imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+```
 ##  
 
 
