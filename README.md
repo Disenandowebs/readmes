@@ -262,8 +262,18 @@ Para ordenar tu lista, antecede cada línea con un número.
 3. John Quincy Adams
 ```
 
+Puedes crear una lista anidada al dejar sangría en uno o más elementos de la lista debajo de otro elemento.
 
+1. First list item
+   - First nested list item
+     - Second nested list item
 
+**Código**
+```
+1. First list item
+   - First nested list item
+     - Second nested list item
+```
 
 
 
