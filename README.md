@@ -234,6 +234,20 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 
 ##  
 
+### 6. LISTAS
+
+Puedes crear una lista sin ordenar. Para ello, coloca -, * o + antes de una o más líneas de texto.
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+**Código**
+```
+- George Washington
+* John Adams
++ Thomas Jefferson
+```
 
 
 
