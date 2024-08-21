@@ -288,9 +288,14 @@ Para crear una lista de tareas, debe añadir como prefijo un guion y espacio, se
 - [ ] Add delight to the experience when all tasks are complete :tada:
 ```
 
+Si la descripción de un elemento de la lista de tareas comienza por un paréntesis, necesitará agregar el carácter de escape \:
 
+- [ ] \(Optional) Open a followup issue
 
-
+**Código**
+```
+- [ ] \(Optional) Open a followup issue
+```
 
 
 
