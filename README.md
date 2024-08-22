@@ -339,6 +339,8 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 ```
 
+> [!NOTE]
+> En el anterior ejemplo, las notas al pie están escritas directamente después de sus referencias en los párrafos o líneas de texto, pero éstas automáticamente son llevadas al final del REAMDE.md cuando se visualizan con Markdown.
 
 
 
