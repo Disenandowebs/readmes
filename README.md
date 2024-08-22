@@ -297,7 +297,7 @@ Si la descripción de un elemento de la lista de tareas comienza por un parénte
 - [ ] \(Optional) Open a followup issue
 ```
 
-### 6. EMOJIS
+### 7. EMOJIS
 
 Puedes agregar emoji a la escritura escribiendo `:CodigoDeEmoji:`, dos puntos seguidos al principio y al final del nombre ó código del emoji.
 
@@ -309,6 +309,17 @@ Puedes agregar emoji a la escritura escribiendo `:CodigoDeEmoji:`, dos puntos se
 ```
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 ```
+
+### 8. PÁRRAFOS O SEPARACIÓN DE LÍNEAS DE TEXTO
+
+Puedes crear un nuevo párrafo al dejar una línea en blanco entre las líneas de texto.
+
+### 9. NOTAS AL PIE
+
+Puedes agregar notas al pie para tu contenido si utilizas esta sintaxis de corchetes.
+
+
+
 
 
 
