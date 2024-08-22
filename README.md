@@ -301,6 +301,8 @@ Si la descripción de un elemento de la lista de tareas comienza por un parénte
 
 Puedes agregar emoji a la escritura escribiendo `:CodigoDeEmoji:`, dos puntos seguidos al principio y al final del nombre ó código del emoji.
 
+**Ejemplo**
+
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 **Código**
