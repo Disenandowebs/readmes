@@ -318,8 +318,26 @@ Puedes crear un nuevo párrafo al dejar una línea en blanco entre las líneas d
 
 Puedes agregar notas al pie para tu contenido si utilizas esta sintaxis de corchetes.
 
+**Ejemplo**
 
+Here is a simple footnote[^1].
 
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+**Código**
+```
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+```
 
 
 
