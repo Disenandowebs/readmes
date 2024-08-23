@@ -299,7 +299,7 @@ Si la descripción de un elemento de la lista de tareas comienza por un parénte
 
 Para crear tablas se utiliza estructuras sencillas para obtener algo como lo siguiente
 
-**Código**
+**Ejemplo**
 
 | Columna1 | Columna2 | Columna3  |
 | ------------- | ------------- | ------------- |
@@ -308,6 +308,7 @@ Para crear tablas se utiliza estructuras sencillas para obtener algo como lo sig
 | Fila 3 | Fila 3 | Fila 3  |
 
 **Código**
+
 ```
 | Columna1 | Columna2 | Columna3  |
 | ------------- | ------------- | ------------- |
