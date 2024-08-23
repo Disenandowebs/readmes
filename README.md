@@ -297,7 +297,7 @@ Si la descripción de un elemento de la lista de tareas comienza por un parénte
 - [ ] \(Optional) Open a followup issue
 ```
 
-Para crear tablas se utiliza estructuras sencillas para obtener algo como lo siguiente
+Para crear tablas se utiliza estructuras sencillas para obtener algo como lo siguiente:
 
 **Ejemplo**
 
