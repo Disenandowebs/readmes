@@ -388,3 +388,5 @@ Las insignias en la documentación de tu repositorio además de dar información
 
 
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
+https://github.com/badges/shields
