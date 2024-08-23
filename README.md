@@ -362,30 +362,28 @@ A footnote can also have multiple lines[^2].
 > [!NOTE]
 > En el anterior ejemplo, las notas al pie están escritas directamente después de sus referencias en los párrafos o líneas de texto, pero éstas automáticamente son llevadas al final del REAMDE.md cuando se visualizan con Markdown.
 
+## 🛠️ PLATAFORMAS Y HERRAMIENTAS ONLINE
 
-
-
-
-
-
-
-
-
-
-
-https://docs.github.com/es/get-started/accessibility/keyboard-shortcuts
-
-### HERRAMIENTAS
-
-Las herramientas son plataformas que te ayudan a crear algunos elementos en MarkDown mucho más fácil. Te dejo algunas:
+Algunas de las herramientas o plataformas que pueden ayudarnos a crear algunos elementos en MarkDown mucho más fácil y que te puedo recomendar son:
 - Editor online de HTML: https://onlinehtmleditor.dev/
 - Generador de tablas en diferentes formatos: https://www.tablesgenerator.com/
 
-## PLANTILLA 01
+### INSIGNIAS O ETIQUETAS COLORIDAS
 
-<pre> # El título aquí </pre>
+Las insignias en la documentación de tu repositorio además de dar información sobre el repositorio lo hacen más vistoso. En el siguiente ejemplo, para mostrar las vistas a tu repositorio puedes usar la siguiente insignia, reemplazas el `<user>` por tu usuario y `<repo>` por el nombre de tu repositorio y listo.
 
-<pre> Una imagen como portada </pre>
+**Ejemplo**
+
+![ViewCount](https://views.whatilearened.today/views/github/Disenandowebs/readmes.svg)
+
+**Código**
+
+```
+![ViewCount](https://views.whatilearened.today/views/github/<user>/<repo>.svg)
+```
+
+
+
 
 
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
