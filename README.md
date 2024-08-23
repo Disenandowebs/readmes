@@ -234,7 +234,7 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 
 ##  
 
-### 6. LISTAS
+### 6. LISTAS Y TABLAS
 
 Puedes crear una lista sin ordenar. Para ello, coloca -, * o + antes de una o más líneas de texto.
 
@@ -297,6 +297,25 @@ Si la descripción de un elemento de la lista de tareas comienza por un parénte
 - [ ] \(Optional) Open a followup issue
 ```
 
+Para crear tablas se utiliza estructuras sencillas para obtener algo como lo siguiente
+
+**Código**
+
+| Columna1 | Columna2 | Columna3  |
+| ------------- | ------------- | ------------- |
+| Fila 1 | Fila 1 | Fila 1  |
+| Fila 2 | Fila 2 | Fila 2  |
+| Fila 3 | Fila 3 | Fila 3  |
+
+**Código**
+```
+| Columna1 | Columna2 | Columna3  |
+| ------------- | ------------- | ------------- |
+| Fila 1 | Fila 1 | Fila 1  |
+| Fila 2 | Fila 2 | Fila 2  |
+| Fila 3 | Fila 3 | Fila 3  |
+```
+
 ### 7. EMOJIS
 
 Puedes agregar emoji a la escritura escribiendo `:CodigoDeEmoji:`, dos puntos seguidos al principio y al final del nombre ó código del emoji.
@@ -351,7 +370,7 @@ A footnote can also have multiple lines[^2].
 
 
 
-https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+
 
 https://docs.github.com/es/get-started/accessibility/keyboard-shortcuts
 
