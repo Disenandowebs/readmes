@@ -365,8 +365,9 @@ A footnote can also have multiple lines[^2].
 ## 🛠️ PLATAFORMAS Y HERRAMIENTAS ONLINE
 
 Algunas de las herramientas o plataformas que pueden ayudarnos a crear algunos elementos en MarkDown mucho más fácil y que te puedo recomendar son:
-- Editor online de HTML: https://onlinehtmleditor.dev/
-- Generador de tablas en diferentes formatos: https://www.tablesgenerator.com/
+- Editor online de HTML: ![Onlinehtmleditor.dev](https://onlinehtmleditor.dev/)
+- Generador de tablas en diferentes formatos: ![Tablesgenerator.com](https://www.tablesgenerator.com/)
+- Creador de insignias concisas, consistentes y legibles para archivos README: ![Shields.io](https://shields.io/)
 
 ### INSIGNIAS O ETIQUETAS COLORIDAS
 
