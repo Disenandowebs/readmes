@@ -368,6 +368,7 @@ Algunas de las herramientas o plataformas que pueden ayudarnos a crear algunos e
 - Editor online de HTML: ![Onlinehtmleditor.dev](https://onlinehtmleditor.dev/)
 - Generador de tablas en diferentes formatos: ![Tablesgenerator.com](https://www.tablesgenerator.com/)
 - Creador de insignias concisas, consistentes y legibles para archivos README: ![Shields.io](https://shields.io/)
+- Repositorio de Shields.io ![Github Shields.io](https://github.com/badges/shields)
 
 ### INSIGNIAS O ETIQUETAS COLORIDAS
 
@@ -383,10 +384,13 @@ Las insignias en la documentación de tu repositorio además de dar información
 ![ViewCount](https://views.whatilearened.today/views/github/<user>/<repo>.svg)
 ```
 
+Para generar una insignia estática se puede ir a ![static-badge](https://img.shields.io/badges/static-badge) y crear en ésta parte:
 
 
+![xx](https://img.shields.io/badge/left-right-f39f37)
 
+![insignia](https://img.shields.io/badge/some_text-you_write-6B3D3)
 
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 
-https://github.com/badges/shields
+
