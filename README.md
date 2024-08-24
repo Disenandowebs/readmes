@@ -386,10 +386,19 @@ Las insignias en la documentación de tu repositorio además de dar información
 
 Para generar una insignia estática se puede ir a ![static-badge](https://img.shields.io/badges/static-badge) y crear en ésta parte:
 
+![static-badge](/src/static-badge.png)
 
-![xx](https://img.shields.io/badge/left-right-f39f37)
+y luego la insertas en tu archivo de Markdown así:
 
 ![insignia](https://img.shields.io/badge/some_text-you_write-6B3D3)
+
+**Código**
+
+```
+![insignia](https://img.shields.io/badge/some_text-you_write-6B3D3)
+```
+
+
 
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 
