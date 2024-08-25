@@ -35,6 +35,18 @@ Un README.md atractivo debe contener la mayoría de las siguientes partes:
     </tr>
 </table>
 
+## 🎯 OBJETIVOS DE UN README
+
+Cuál es la finalidad de un README? Hay millones de cuentas de Github, pero ni el 1% presta atención a los READMEs, tienen muchos repositorios pero casi ninguno tiene **documentación**, así es, un README hace como una documentación de tu repositorio. Y qué importancia tiene una documentación? En la profesión de desarrollador tiene mucha, ya que los repositorios son como una extensión del Curriculum Vitae, son portafolios que muestran cuánto tiempo y cuánto conocimiento tienes en el desarrollo de proyectos de programación. 
+
+Si quisieramos puntear y describir las funciones o finalidades de una documentación o README en repositorios de Github serían:
+- Describir un proyecto.
+- Describir y explicar funcionalidades.
+- Cómo podrían ayudar a los usuarios de Github.
+- Mostrar los conocimientos aplicados para potenciales oportunidades de trabajo.
+- Dónde pueden los usuarios encontrar ayuda para sus proyectos.
+- Dar información sobre los autores del proyecto.
+
 ## :id: ELEMENTOS
 
 Los elementos que puedes incluir en el README.md se detallan a continuación, si quieres sugerir alguno que no está incluido, contáctame para agregarte en el equipo de contribución.
