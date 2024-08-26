@@ -236,6 +236,10 @@ Un enlace relativo es un enlace que es relativo al archivo actual. Por ejemplo, 
 
 Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imagen. Luego, escribe el vínculo de la imagen entre paréntesis ().
 
+**Ejemplo**
+
+![Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+
 **Código**
 ```
 ![Descripción de Imagen](https://myoctocat.com/assets/images/base-octocat.svg)
