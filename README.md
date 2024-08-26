@@ -248,6 +248,21 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 > [!TIP]
 > Cuando quieras mostrar una imagen incluida en el repositorio, usa vínculos relativos en vez de absolutos.
 
+Puedes usar también los avatars de tu cuenta así:
+
+**Ejemplo**
+
+## AUTORES
+
+| [<img src="https://avatars.githubusercontent.com/u/41397439?s=400&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width=115><br><sub>Disenandowebs</sub>](https://github.com/Disenandowebs) |  [<img src="https://avatars.githubusercontent.com/u/41397439?s=400&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width=115><br><sub>Disenandowebs</sub>](https://github.com/Disenandowebs) | [<img src="https://avatars.githubusercontent.com/u/41397439?s=400&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width=115><br><sub>Disenandowebs</sub>](https://github.com/Disenandowebs) |
+| :---: | :---: | :---: |
+
+**Código**
+```
+| [<img src="https://avatars.githubusercontent.com/u/41397439?s=400&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width=115><br><sub>Disenandowebs</sub>](https://github.com/Disenandowebs) |  [<img src="https://avatars.githubusercontent.com/u/41397439?s=400&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width=115><br><sub>Disenandowebs</sub>](https://github.com/Disenandowebs) | [<img src="https://avatars.githubusercontent.com/u/41397439?s=400&u=4a1a2874ec269f8c5f85f76233732250cee14c49&v=4" width=115><br><sub>Disenandowebs</sub>](https://github.com/Disenandowebs) |
+| :---: | :---: | :---: |
+```
+
 ##  
 
 ### 6. LISTAS Y TABLAS
