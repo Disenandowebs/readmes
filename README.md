@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/ESTADO-FINALIZADO-6B3D3?style=for-the-badge)
 
+![Static Badge](https://img.shields.io/badge/Lenguaje-Markdown-blue?style=flat)
+
 # 📜 READMES PARA GITHUB
 
 ## 📄 PLANTILLA BASE
