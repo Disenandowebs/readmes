@@ -405,6 +405,7 @@ Algunas de las herramientas o plataformas que pueden ayudarnos a crear algunos e
 - Generador de tablas en diferentes formatos: ![Tablesgenerator.com](https://www.tablesgenerator.com/)
 - Creador de insignias concisas, consistentes y legibles para archivos README: ![Shields.io](https://shields.io/)
 - Repositorio de Shields.io ![Github Shields.io](https://github.com/badges/shields)
+- Repositorio de avatars ![Avatars](https://github.com/alohe/avatars)
 
 ### INSIGNIAS O ETIQUETAS COLORIDAS
 
@@ -435,7 +436,7 @@ y luego la insertas en tu archivo de Markdown así:
 ```
 
 
-https://github.com/alohe/avatars
+
 
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
 
