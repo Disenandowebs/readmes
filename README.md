@@ -435,9 +435,11 @@ y luego la insertas en tu archivo de Markdown así:
 ![insignia](https://img.shields.io/badge/some_text-you_write-6B3D3)
 ```
 
-
-
-
+<!-- 
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+-->
+
+
+
 
 
