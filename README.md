@@ -1,5 +1,3 @@
-
-
 <img src="/src/readmes_github.gif" alt="Portada" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/ESTADO-FINALIZADO-6B3D3?style=for-the-badge)
